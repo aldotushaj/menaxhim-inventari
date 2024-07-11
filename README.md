@@ -1,0 +1,1 @@
+Ky projekt esht nje sistem Menaxhim Inventari qe perdor HashMaps per te ruajtur dhe menaxhuar informacionin e produktit. Sistemi lejon perdoruesit te shtojne, fshijne dhe shfaqin produktet ne inventar, me opsione per te futur emrin e produktit, sasine dhe cmimin. HashMaps jane perdorur per te ruajtur emrin e produktit si key dhe sasine dhe cmimin si values.
